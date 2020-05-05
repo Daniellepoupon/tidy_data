@@ -15,6 +15,7 @@ STANDING
 
 LAYING
 
+
 For each activity, the mean of the following measurements are displayed:
 
 tBodyAcc-mean()-X
