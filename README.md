@@ -8,6 +8,7 @@ Subdata by Activity Type from Human Activity Recognition Using Smartphones Datas
 Version 1.0
 
 ==================================================================
+
 Danielle Okula
 
 ==================================================================
